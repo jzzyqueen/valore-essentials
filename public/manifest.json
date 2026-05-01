@@ -1,0 +1,13 @@
+{
+  "name": "Valoré Essentials",
+  "short_name": "Valoré",
+  "description": "Curated kits for the modern traveler.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B0B0D",
+  "theme_color": "#C6A96B",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
