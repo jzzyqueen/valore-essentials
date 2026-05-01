@@ -31,7 +31,7 @@ export default function Hero() {
           <h1 className="font-serif font-light text-5xl sm:text-6xl lg:text-7xl leading-[1.05] mb-6">
             Curated<br />
             <span className="italic text-gold">Essentials</span><br />
-            for You <br />
+            for you <br />
             On The Go
           </h1>
           <p className="text-cream/60 text-lg leading-relaxed mb-10 max-w-md">
