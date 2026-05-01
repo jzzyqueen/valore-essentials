@@ -50,7 +50,7 @@ export default function AboutPage() {
             </div>
             {/* Accent card */}
             <div className="absolute bottom-8 left-0 bg-secondary border border-gold/20 px-4 py-3 rounded-sm shadow-card">
-              <span className="font-serif text-2xl text-gold block">2025</span>
+              <span className="font-serif text-2xl text-gold block">2026</span>
               <p className="text-cream/60 text-xs">Founded in Lagos,<br />loved worldwide.</p>
             </div>
           </div>

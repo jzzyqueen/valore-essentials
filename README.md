@@ -1,6 +1,6 @@
 # Valore Essentials
 
-Premium travel essential kits for the modern traveler. Built with Next.js 14, Tailwind CSS, TypeScript.
+Premium travel essential kits for you on the go. Built with Next.js 14, Tailwind CSS, TypeScript.
 
 ## Stack
 - Framework: Next.js 14 (App Router)

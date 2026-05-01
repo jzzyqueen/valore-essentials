@@ -10,9 +10,9 @@ import { cn } from '@/lib/utils';
 type Props = { product: Product; related: Product[] };
 
 const REVIEWS = [
-  { stars: 5, name: 'Adaeze O.', date: 'March 2025', text: 'Absolutely worth every penny. The packaging is stunning and the quality inside is just as good.' },
-  { stars: 5, name: 'Tiwa M.', date: 'February 2025', text: 'I&apos;ve bought three of these now — one for me, two as gifts. Everyone is obsessed.' },
-  { stars: 4, name: 'Sofia L.', date: 'January 2025', text: 'Gorgeous kit. Would love a slightly bigger size option but otherwise perfect.' },
+  { stars: 5, name: 'Adaeze O.', date: 'March 2026', text: 'Absolutely worth every penny. The packaging is stunning and the quality inside is just as good.' },
+  { stars: 5, name: 'Tiwa M.', date: 'February 202', text: 'I&apos;ve bought three of these now — one for me, two as gifts. Everyone is obsessed.' },
+  { stars: 4, name: 'Sofia L.', date: 'January 2026', text: 'Gorgeous kit. Would love a slightly bigger size option but otherwise perfect.' },
 ];
 
 export default function ProductPageClient({ product, related }: Props) {

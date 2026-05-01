@@ -27,12 +27,12 @@ export default function Hero() {
       <div className="relative z-10 max-w-7xl mx-auto px-6 w-full grid md:grid-cols-2 gap-12 items-center py-20">
         {/* Text */}
         <div>
-          <p className="text-[0.65rem] tracking-[0.35em] uppercase text-gold mb-6 font-medium">New Collection — 2025</p>
+          
           <h1 className="font-serif font-light text-5xl sm:text-6xl lg:text-7xl leading-[1.05] mb-6">
             Curated<br />
             <span className="italic text-gold">Essentials</span><br />
-            for the Modern<br />
-            Traveler
+            for You <br />
+            On The Go
           </h1>
           <p className="text-cream/60 text-lg leading-relaxed mb-10 max-w-md">
             Every kit, every detail — curated so you feel prepared, put-together, and effortlessly confident anywhere.
